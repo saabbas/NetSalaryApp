@@ -7,3 +7,12 @@ C:\Users\saabbas\Desktop\HW4\Net Salary App\Net Salary App\obj\Debug\Net Salary 
 C:\Users\saabbas\Desktop\HW4\Net Salary App\Net Salary App\obj\Debug\Net Salary App.dll
 C:\Users\saabbas\Desktop\HW4\Net Salary App\Net Salary App\obj\Debug\Net Salary App.xml
 C:\Users\saabbas\Desktop\HW4\Net Salary App\Net Salary App\obj\Debug\Net Salary App.pdb
+C:\Users\saabbas\Desktop\HW4\NetSalaryApp\Net Salary App\bin\Net Salary App.dll.config
+C:\Users\saabbas\Desktop\HW4\NetSalaryApp\Net Salary App\bin\Net Salary App.dll
+C:\Users\saabbas\Desktop\HW4\NetSalaryApp\Net Salary App\bin\Net Salary App.pdb
+C:\Users\saabbas\Desktop\HW4\NetSalaryApp\Net Salary App\bin\Net Salary App.xml
+C:\Users\saabbas\Desktop\HW4\NetSalaryApp\Net Salary App\obj\Debug\Net_Salary_App.Resources.resources
+C:\Users\saabbas\Desktop\HW4\NetSalaryApp\Net Salary App\obj\Debug\Net Salary App.vbproj.GenerateResource.Cache
+C:\Users\saabbas\Desktop\HW4\NetSalaryApp\Net Salary App\obj\Debug\Net Salary App.dll
+C:\Users\saabbas\Desktop\HW4\NetSalaryApp\Net Salary App\obj\Debug\Net Salary App.xml
+C:\Users\saabbas\Desktop\HW4\NetSalaryApp\Net Salary App\obj\Debug\Net Salary App.pdb

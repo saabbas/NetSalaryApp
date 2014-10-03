@@ -22,7 +22,8 @@
             netpay = (grosswage - pretaxD) * (1 - 0.22) - aftertaxD
         End If
 
-        
+        'Display Result as Currency
+        netpayLabel.Text = String.Format("{0:C}", netpay)
 
     End Sub
 End Class
