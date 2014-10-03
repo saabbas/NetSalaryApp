@@ -26,4 +26,13 @@
         netpayLabel.Text = String.Format("{0:C}", netpay)
 
     End Sub
+
+    Protected Sub deleteinputsLabel_Click(sender As Object, e As EventArgs) Handles deleteinputsLabel.Click
+        'Clear Inputs
+        hourlywageTextBox.Text = String.Empty
+        hoursworkedTextBox.Text = String.Empty
+        pretaxdTextBox.Text = String.Empty
+        aftertaxdTextBox.Text = String.Empty
+        netpayLabel.Text = String.Empty
+    End Sub
 End Class
