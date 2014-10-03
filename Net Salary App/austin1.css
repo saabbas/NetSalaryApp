@@ -1,0 +1,24 @@
+﻿#body 	{background-color: blue;
+		padding-top: 5%;
+		text-align: center;
+	
+}
+
+.style1 		{font-family: "times";
+		font-size: xx-large;
+		font-weight: bold;
+		text-transform: uppercase;
+		
+}
+
+.style2 		{font-family: "times";
+		font-size: medium;
+		
+}
+
+.style3 		{font-family: "times";
+		font-size: medium;
+		font-weight: bold;
+		text-decoration: underline;
+
+}
